@@ -12,7 +12,7 @@ This system provides a clean, responsive interface for core administrative tasks
 * **📅 Appointment Management:** System to schedule, track, update, and cancel user appointments.
 * **📊 Clean UI:** A simple, **responsive** user interface built with **HTML5 & CSS3** only.
 
----
+----
 
 ## 🛠️ Technologies Used
 
